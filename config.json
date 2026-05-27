@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersalculate",
+        "uuid": 7208275,
+        "checksum": "05mqk"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
